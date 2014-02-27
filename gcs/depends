@@ -25,6 +25,10 @@ plymouth-label
 plymouth-theme-text
 plymouth
 
+gnome-keyring
+libpam-gnome-keyring
+policykit-desktop-privileges
+
 network-manager
 network-manager-gnome
 wireless-tools
@@ -116,6 +120,7 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
+icedtea-7-plugin
 gstreamer0.10-alsa
 gstreamer0.10-gconf
 gstreamer0.10-plugins-base-apps
