@@ -120,7 +120,6 @@ language-pack-gnome-es
 aspell-es
 libglib2.0-bin
 
-icedtea-7-plugin
 gstreamer0.10-alsa
 gstreamer0.10-gconf
 gstreamer0.10-plugins-base-apps
