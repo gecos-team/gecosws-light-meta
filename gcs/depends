@@ -131,3 +131,14 @@ alsa-utils
 alsa-base
 
 upower
+
+sssd
+sssd-tools
+samba-common-bin 
+autofs 
+krb5-user
+libnss-sss
+libpam-sss
+libsasl2-modules-gssapi-mit
+libsasl2-modules-ldap
+ldap-utils
