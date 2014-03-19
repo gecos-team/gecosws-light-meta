@@ -142,3 +142,8 @@ libpam-sss
 libsasl2-modules-gssapi-mit
 libsasl2-modules-ldap
 ldap-utils
+
+libqtkeychain
+libowncloudsync
+owncloud-client-l10n
+owncloud-client
