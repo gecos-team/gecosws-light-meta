@@ -135,6 +135,7 @@ upower
 
 sssd
 sssd-tools
+cracklib-runtime
 samba-common-bin 
 autofs 
 krb5-user
