@@ -3,11 +3,16 @@ gecosws-skel-conf
 gecosws-icon-theme
 gecosws-light-lxde-common-conf
 mint-artwork-common
-
+gecosws-mdm-theme
+mint-mdm-themes
+indicator-application
+at-spi2-core
+system-config-printer-gnome
 firefox-esr-guadaext
 
 acpi-support
 usbutils
+pciutils
 command-not-found
 acl
 vim
@@ -20,15 +25,16 @@ linux-firmware-nonfree
 ubuntu-keyring
 linuxmint-keyring
 
-plymouth-theme-ubuntu-logo
-plymouth-theme-ubuntu-text
-plymouth-label
-plymouth-theme-text
-plymouth
+plymouth-theme-ubuntu-logo                                                       
+plymouth-theme-ubuntu-text                                                       
+plymouth-theme-text                                                              
+plymouth-theme-glow
 
 gnome-keyring
 libpam-gnome-keyring
 policykit-desktop-privileges
+policykit-1                                                                      
+policykit-1-gnome
 
 network-manager
 network-manager-gnome
@@ -57,6 +63,7 @@ lxtask
 ttf-dejavu
 gtk2-engines
 gtk2-engines-murrine
+gtk2-engines-pixbuf
 gtk3-engines-unico
 lxappearance
 lxde-core
@@ -71,11 +78,25 @@ lxterminal
 mdm
 obconf
 openbox
-openbox-themes
 pcmanfm
 leafpad
 sound-theme-freedesktop
+samba                                                                            
+smbclient                                                                        
+dosfstools                                                                       
+xfsprogs                                                                         
+reiserfsprogs                                                                    
+reiser4progs                                                                     
+jfsutils                                                                         
+ntfs-3g                                                                          
+dosfstools                                                                       
+kpartx                                                                           
+dmraid                                                                           
+dmsetup                                                                          
+gpart 
+gnome-icon-theme
 gnome-icon-theme-full
+gnome-icon-theme-symbolic
 notification-daemon
 zenity
 
