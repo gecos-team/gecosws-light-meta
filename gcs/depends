@@ -9,6 +9,7 @@ indicator-application
 at-spi2-core
 system-config-printer-gnome
 firefox-esr-guadaext
+policykit-1-gnome
 
 acpi-support
 usbutils
