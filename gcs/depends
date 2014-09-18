@@ -10,6 +10,7 @@ at-spi2-core
 system-config-printer-gnome
 firefox-esr-guadaext
 policykit-1-gnome
+java-nss-fix
 
 acpi-support
 usbutils
