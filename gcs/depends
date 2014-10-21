@@ -3,6 +3,7 @@ gecosws-skel-conf
 gecosws-icon-theme
 gecosws-light-lxde-common-conf
 gecosws-config-assistant
+gecosws-chef-snitch
 mint-artwork-common
 gecosws-mdm-theme
 mint-mdm-themes
@@ -19,6 +20,8 @@ pciutils
 command-not-found
 acl
 vim
+ruby1.9.1
+chef
 
 jockey-gtk
 dkms
