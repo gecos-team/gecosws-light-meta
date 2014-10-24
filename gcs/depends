@@ -30,6 +30,8 @@ dkms
 bcmwl-kernel-source
 linux-firmware-nonfree
 
+libshadow-ruby1.8
+
 ubuntu-keyring
 linuxmint-keyring
 
