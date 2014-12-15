@@ -12,9 +12,15 @@ mint-mdm-themes
 indicator-application
 at-spi2-core
 system-config-printer-gnome
-firefox-esr-guadaext
+firefox-esr
 policykit-1-gnome
 java-nss-fix
+
+
+synaptic
+apturl
+update-manager
+rsync
 
 acpi-support
 usbutils
@@ -22,6 +28,8 @@ pciutils
 command-not-found
 acl
 vim
+joe
+nano
 ruby1.9.1
 chef
 
@@ -148,6 +156,8 @@ hdparm
 man-db
 rfkill
 zip
+unzip
+bash-completion
 
 language-pack-gnome-es
 aspell-es
