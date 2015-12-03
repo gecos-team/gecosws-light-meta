@@ -4,7 +4,7 @@ gecosws-icon-theme
 gecosws-light-lxde-common-conf
 mint-artwork-common
 
-firefox-esr-guadaext
+#firefox-esr-guadaext
 
 acpi-support
 usbutils
@@ -79,11 +79,14 @@ gnome-icon-theme-full
 notification-daemon
 zenity
 
+ppp
+mobile-broadband-provider-info
+modemmanager
 usb-modeswitch
 usb-modeswitch-data
 usb-creator-gtk
 
-wspanish 
+
 traceroute 
 grub-pc
 mtools 
@@ -91,6 +94,7 @@ anacron
 whois
 dnsutils
 
+#Printing
 cups
 cups-client
 cups-common
@@ -99,13 +103,7 @@ cups-ppdc
 foomatic-db-compressed-ppds
 foomatic-db-engine
 foomatic-filters
-printer-driver-gutenprint
-printer-driver-hpijs
-printer-driver-min12xxw
-printer-driver-pnm2ppa
-system-config-printer-common
-system-config-printer-gnome
-system-config-printer-udev
+printer-driver-all
 
 gvfs-backends
 gvfs-bin
@@ -145,3 +143,19 @@ libsasl2-modules-gssapi-mit
 libsasl2-modules-ldap
 ldap-utils
 python-software-properties
+
+gnome-disk-utility
+gnome-font-viewer
+gdebi
+eog
+# Needed for debconf gui interface
+libgtk2-perl
+
+# GECOS Agent will be installed by GECOS Config Assistant in a future version
+gecos-agent
+firefox
+firefox-locale-es
+java-nss-fix
+gecosws-config-assistant
+dconf-tools
+powernap
