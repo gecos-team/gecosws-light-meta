@@ -27,13 +27,14 @@ acl
 vim
 joe
 nano
-ruby1.9.1
+ruby
 chef
 
 jockey-gtk
 dkms
 bcmwl-kernel-source
-linux-firmware-nonfree
+# At this moment there is no linux-firmware-nonfree in Xenial
+#linux-firmware-nonfree
 
 libshadow-ruby1.8
 
@@ -42,8 +43,8 @@ linuxmint-keyring
 
 plymouth-theme-ubuntu-logo                                                       
 plymouth-theme-ubuntu-text                                                       
-plymouth-theme-text                                                              
-plymouth-theme-glow
+#plymouth-theme-text                                                              
+#plymouth-theme-glow
 
 gnome-keyring
 libpam-gnome-keyring
@@ -58,7 +59,7 @@ wireless-tools
 xdg-utils
 xfonts-base
 xfonts-encodings
-xfonts-mathml
+#xfonts-mathml
 xfonts-utils
 xserver-xorg
 xserver-xorg-input-all
