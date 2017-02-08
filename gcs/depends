@@ -4,7 +4,7 @@ gecosws-icon-theme
 gecosws-light-lxde-common-conf
 gecosws-config-assistant
 gecosws-xdg-ruby
-mint-artwork-common
+#mint-artwork-common
 gecosws-mdm-theme
 mint-mdm-themes
 indicator-application
