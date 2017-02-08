@@ -14,7 +14,7 @@ policykit-1-gnome
 
 
 synaptic
-apturl
+#apturl
 gdebi
 update-manager
 rsync
@@ -198,7 +198,7 @@ libgtk2-perl
 gecos-agent
 firefox
 firefox-locale-es
-java-nss-fix
+#java-nss-fix
 gecosws-config-assistant
 dconf-tools
 powernap
