@@ -43,8 +43,7 @@ linuxmint-keyring
 
 plymouth-theme-ubuntu-logo                                                       
 plymouth-theme-ubuntu-text                                                       
-#plymouth-theme-text                                                              
-#plymouth-theme-glow
+plymouth-themes
 
 gnome-keyring
 libpam-gnome-keyring
