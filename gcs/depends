@@ -4,9 +4,11 @@ gecosws-icon-theme
 gecosws-light-lxde-common-conf
 gecosws-config-assistant
 gecosws-xdg-ruby
-#mint-artwork-common
-gecosws-mdm-theme
-mint-mdm-themes
+#gecosws-mdm-theme
+#mint-mdm-themes
+#mdm
+lxdm
+
 indicator-application
 at-spi2-core
 system-config-printer-gnome
@@ -91,7 +93,6 @@ lxsession-edit
 lxsession-logout
 lxshortcut
 lxterminal
-mdm
 mintstick
 obconf
 openbox
