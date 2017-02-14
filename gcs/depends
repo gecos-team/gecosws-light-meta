@@ -115,7 +115,7 @@ gnome-icon-theme
 gnome-icon-theme-full
 gnome-icon-theme-symbolic
 notification-daemon
-zenity
+#zenity
 
 usb-modeswitch
 usb-modeswitch-data
