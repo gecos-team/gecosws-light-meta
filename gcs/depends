@@ -164,7 +164,7 @@ libglib2.0-bin
 
 gstreamer0.10-alsa
 gstreamer0.10-gconf
-gstreamer0.10-plugins-base-apps
+#gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gstreamer0.10-tools
 pulseaudio-module-bluetooth
