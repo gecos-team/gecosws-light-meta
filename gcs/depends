@@ -33,8 +33,8 @@ ruby
 chef
 
 jockey-gtk
-dkms
-bcmwl-kernel-source
+#dkms
+#bcmwl-kernel-source
 # At this moment there is no linux-firmware-nonfree in Xenial
 #linux-firmware-nonfree
 
