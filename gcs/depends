@@ -184,7 +184,7 @@ libpam-sss
 libsasl2-modules-gssapi-mit
 libsasl2-modules-ldap
 ldap-utils
-python-software-properties
+#python-software-properties
 
 
 gnome-disk-utility
