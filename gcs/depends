@@ -31,13 +31,13 @@ nano
 ruby
 chef
 
-jockey-gtk
+ubuntu-drivers-common
 #dkms
 #bcmwl-kernel-source
 # At this moment there is no linux-firmware-nonfree in Xenial
 #linux-firmware-nonfree
 
-libshadow-ruby1.8
+#libshadow-ruby1.8
 
 ubuntu-keyring
 linuxmint-keyring
@@ -107,7 +107,6 @@ reiserfsprogs
 reiser4progs                                                                     
 jfsutils                                                                         
 ntfs-3g                                                                          
-dosfstools                                                                       
 kpartx                                                                           
 dmraid                                                                           
 dmsetup                                                                          
@@ -192,8 +191,6 @@ gnome-disk-utility
 gnome-font-viewer
 gdebi
 eog
-# Needed for debconf gui interface
-libgtk2-perl
 
 # GECOS Agent will be installed by GECOS Config Assistant in a future version
 gecos-agent
