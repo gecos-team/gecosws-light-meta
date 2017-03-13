@@ -35,7 +35,7 @@ ubuntu-drivers-common
 # At this moment there is no linux-firmware-nonfree in Xenial
 #linux-firmware-nonfree
 
-#libshadow-ruby1.8
+libshadow-ruby1.8
 
 ubuntu-keyring
 linuxmint-keyring
