@@ -11,6 +11,7 @@ indicator-application
 at-spi2-core
 system-config-printer-gnome
 policykit-1-gnome
+gecosws-repository-compatibility
 
 
 synaptic
